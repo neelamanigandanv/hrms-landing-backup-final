@@ -1,0 +1,10 @@
+{
+  "description": "Streamline HR, payroll, and attendance for Indian SMBs with an all-in-one system offering role-based features, demo booking, and pricing estimates.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
